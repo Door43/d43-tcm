@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tcm:home|Door43 (tcm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tcm|d43-tcm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tcm/archive/master.zip|d43-tcm.zip]]
+
+**Recent Changes**
+{{changes>ns = tcm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tcm|Ethnologue data]]
+
